@@ -1,0 +1,7 @@
+tensorflow
+importnb
+tkinter
+pickle
+numpy
+json
+re
